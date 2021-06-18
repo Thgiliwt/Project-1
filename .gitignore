@@ -1,0 +1,7 @@
+.vs/
+.ipynb_checkpoints/
+starter_code/
+test.ipynb
+WeatherPy/api_keys.py
+**/__pycache__
+.vscode/
